@@ -27,3 +27,5 @@ n = 80
 calcLastDigit(n)
 n = 11111
 calcLastDigit(n)
+n = 100
+calcLastDigit(n)
